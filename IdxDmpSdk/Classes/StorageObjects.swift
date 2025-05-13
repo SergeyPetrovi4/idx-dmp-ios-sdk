@@ -1,4 +1,5 @@
 import CoreData
+import Foundation
 
 public class Behaviour: NSObject, NSSecureCoding {
     var uuid: String

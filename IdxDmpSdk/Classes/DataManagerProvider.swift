@@ -1,5 +1,6 @@
 import AdSupport
 import AppTrackingTransparency
+import Foundation
 
 public final class DataManagerProvider {
     let providerId: String

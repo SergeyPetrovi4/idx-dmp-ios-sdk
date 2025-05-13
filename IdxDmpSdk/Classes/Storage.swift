@@ -1,4 +1,5 @@
 import CoreData
+import Foundation
 
 func getEventComputedId(eventStruct: EventStruct) -> String {
     return "\(eventStruct.defId)_\(eventStruct.behaviourCode)"

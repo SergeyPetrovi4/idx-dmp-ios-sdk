@@ -1,3 +1,5 @@
+import Foundation
+
 private enum ELogLevel: Int {
     case None = 0,
     All,

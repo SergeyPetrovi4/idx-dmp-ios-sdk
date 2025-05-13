@@ -1,3 +1,5 @@
+import Foundation
+
 enum EDMPEvent: String, Encodable {
     case PAGE_VIEW
 }

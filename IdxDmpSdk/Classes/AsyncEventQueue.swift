@@ -1,3 +1,5 @@
+import Foundation
+
 public final class AsyncEventQueue {
     private let serialQueue = DispatchQueue(label: "sdk.dmp.idx", qos: .background)
 
