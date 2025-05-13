@@ -1,3 +1,5 @@
+import Foundation
+
 struct Config {
     struct Api {
         private static let baseUrl = "https://event.dxmdp.com/rest/api/v1"

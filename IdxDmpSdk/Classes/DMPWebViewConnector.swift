@@ -1,4 +1,5 @@
 import WebKit
+import Foundation
 
 public final class DMPWebViewConnector: NSObject, WKScriptMessageHandler {
     private let jsNameSendDataToDmpNativeSdk: String = "sendDataToDmpNativeSdk"

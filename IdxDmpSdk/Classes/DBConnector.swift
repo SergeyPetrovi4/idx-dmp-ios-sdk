@@ -1,4 +1,5 @@
 import CoreData
+import Foundation
 
 extension StorageTransformer {
     static let name = NSValueTransformerName(rawValue: String(describing: StorageTransformer.self))
